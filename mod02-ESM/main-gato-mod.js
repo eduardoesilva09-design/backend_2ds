@@ -4,4 +4,4 @@ import {AlimentarGato, TosaGato, banhoGato} from './gato-mod.js'
 
 console.log(alimentoGato('Jotaro', 'petisco'))
 console.log(banhoGato('Chester', 'Completo'))
-console.log(tosaGato('Eddie', 'Bem Altinha'))
+console.log(tosaGato('Eddie', 'Bem Altinho'))
