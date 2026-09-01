@@ -1,5 +1,25 @@
 {
   "dependencies": {
     "chalk": "^5.6.2"
-  }
+  },
+  "name": "backend_2ds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calc.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardoesilva09-design/backend_2ds.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/eduardoesilva09-design/backend_2ds/issues"
+  },
+  "homepage": "https://github.com/eduardoesilva09-design/backend_2ds#readme"
 }
